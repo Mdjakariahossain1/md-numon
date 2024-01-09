@@ -131,26 +131,41 @@ align-items: center;
 ---
 
 
-.main{
-   
-}
-.main-class{
-    text-align: center;
-
-    
+ 
+.main.class{
+ 
+ 
 }
 .ma{
-    width: 1320px;
+width: 1320px;
 height: 482px;
 background-color: antiquewhite;
+padding-top: 100px;
+margin-left: 95px;
 text-align: center;
-margin-left: 850px;
-
-}
-
-
-.ah{
-    font-size: 32px;
-    color: rgb(235, 9, 220);
     
 }
+
+.o{
+    font-size: 32px;
+     
+}
+.b{
+    background-color: red;
+
+    text-align: center;
+     
+    font-size: 20px;
+    padding: 5px 20px ;
+    
+     
+    color: aliceblue;
+    border-radius: 5px;
+    
+}
+
+
+.s{
+    color: red;
+}
+
