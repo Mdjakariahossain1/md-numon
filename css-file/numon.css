@@ -221,7 +221,7 @@ text-align: center;
     width: 306.844px;
     height: 305.844px;
   
-    background-image: url(../resources/Ellipse\ 1.png) ;
+    background-image: url("../resources/Ellipse\ 1.png") ;
     background-repeat: no-repeat;
   
     border-radius: 480px;
@@ -302,7 +302,7 @@ line-height: normal;
 
 /*abar pera suru*/
 
-.img_men{background-image: url(../resources/Rectangle\ 2.png);
+.img_men{background-image: url("../resources/Rectangle\ 2.png");
 background-repeat: no-repeat;
 background-position: bottom;
 width: 1320px;
